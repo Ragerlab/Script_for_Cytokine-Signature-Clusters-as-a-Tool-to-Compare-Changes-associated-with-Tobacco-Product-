@@ -1,5 +1,6 @@
 # Cytokine Compartment Analysis
 > All cytokine compartment analyses in this folder are designated by their figure number or table number in the manuscript or description of the analysis
+> The dates indicate when the original file was created
 
 ## Descriptive Statistics (Table S1)
 - Calculated mean, median, min, max, and standard deviation for the overall cohort, non-smokers, cigarette smokers, and e-cigarette smokers by compartment.
