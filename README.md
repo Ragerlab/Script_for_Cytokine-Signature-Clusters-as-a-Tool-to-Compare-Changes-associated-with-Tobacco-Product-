@@ -14,9 +14,10 @@
 - Calculating and visualizing mean and standard deviation of smokers (either cigarette or e-cigarette smokers) that were the top 5 deviators amongst the smokers. 
 - Baseline mean and standard deviation were also plotted for comparison and the plot was stratified by compartment. 
 
-## Cytokine Distribution Comparison (Table S4 & Table S6)
+## Cytokine Distribution Comparison (Table S4, Table S6, Table S7, Table S8)
 - Using Wilcoxon Rank Sum tests to compare baseline & cigarette smoker distributions or baseline & e-cigarette smokers by compartment.
 - Using Wilcoxon Rank Sum tests to compare baseline cytokine concentrations across compartments. 
+- Used ANOVA test as a crude model (serving as similar function as original Wilcoxon Rank Sum tests) to compare ANCOVA results. ANCOVA was run to control for covariates (sex and race).
 
 ## Demographics Analysis (Table S5)
 Stratified subjects based on the demographic variable of interest (race, ethnicity, sex, age, or bmi) and dichotomous strata were compared in two ways.
