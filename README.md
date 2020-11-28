@@ -10,7 +10,10 @@
 ## Cytokine Distribution Comparison (Table S2, Table S3)
 - Using Wilcoxon Rank Sum tests to compare baseline & cigarette smoker distributions or baseline & e-cigarette smokers by compartment (Table S2).
 - Using Wilcoxon Rank Sum tests to compare baseline cytokine concentrations across compartments (not in manuscript). 
-- Used ANOVA test as a crude model (serving as similar function as original Wilcoxon Rank Sum tests) to compare ANCOVA results. ANCOVA was run to control for covariates (sex, race, and age) (Table S3).
+- Used ANOVA test as a crude model (serving as similar function as original Wilcoxon Rank Sum tests) to compare ANCOVA results. ANCOVA was run to control for age (Table S3).
+
+## Cluster Distribution Comparison (Table S5)
+- Used ANOVA test as a crude model (serving as similar function as original Wilcoxon Rank Sum tests) to compare ANCOVA results. ANCOVA was run to control for age (Table S3). This is the same analysis in the cytokine distribution comparison, but now we are comparing clusters of cytokines rather than individual cytokines.
    
 ## Baseline Analysis (Figure 1, Table 2, and Figure S1)
 - Calculating and visualizing mean and standard deviation of baseline (non-smokers) concentrations for each cytokine (Figure 1). 
