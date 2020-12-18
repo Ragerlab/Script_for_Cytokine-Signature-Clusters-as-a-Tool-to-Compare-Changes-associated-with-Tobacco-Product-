@@ -26,6 +26,10 @@ Calculated demographics statistics including fisher's exact and ANOVA.
 ## Simulation Analysis (Figure 2)
 - Simulated 500 concentration data points to see if randomly generated data would yield similar statistically significant and highly correlated results between each across compartmental analysis. 
 
+## Cluster Visualization (Figure 3)
+- Visualizing clustered eigencytokines by compartment
+- Note that this version isn't in the manuscript!
+
 ## Cytokine Demographics Distribution Comparison (not in manuscript)
 Running Wilcoxon Rank Sum test and stratifying subjects based on the demographic variable of interest (race, ethnicity, sex, age, or bmi) further stratifying compartment to determine how cytokine distributions varied for each variable. 
 
