@@ -23,10 +23,11 @@
 ## Simulation Analysis (Figure 2)
 - Simulated 500 concentration data points to see if randomly generated data would yield similar statistically significant and highly correlated results between each across compartmental analysis. 
 
-## Demographics Analysis (not in manuscript)
-Stratified subjects based on the demographic variable of interest (race, ethnicity, sex, age, or bmi) and dichotomous strata were compared in two ways.
-   1. Calculating and plotting mean and standard deivation across cytokines.
-   2. Running Wilcoxon Rank Sum tests to compare cytokine concentrations distributions.
+## Demographics Analysis (Table 1)
+Calculated demographics statistics including fisher's exact and ANOVA
+
+## Cytokine Demographics Distribution Comparison (not in manuscript)
+Running Wilcoxon Rank Sum test and stratifying subjects based on the demographic variable of interest (race, ethnicity, sex, age, or bmi) further stratifying compartment to determine how cytokine distributions varied for each variable. 
 
 ## Individual Cytokine Rankings (not in manuscript)
 - Gave each cigarette or e-cigarette smoker a score based on the amount of deviation from baseline for each cytokine .
