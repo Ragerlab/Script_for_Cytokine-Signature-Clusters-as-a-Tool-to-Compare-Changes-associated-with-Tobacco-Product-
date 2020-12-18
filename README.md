@@ -4,6 +4,9 @@
 > All cytokine compartment analyses in this folder are designated by their figure number or table number in the manuscript in parantheses.
 
 
+## Demographics Analysis (Table 1)
+Calculated demographics statistics including fisher's exact and ANOVA.
+
 ## Descriptive Statistics (Table S1)
 - Calculated mean, median, min, max, and standard deviation for the overall cohort, non-smokers, cigarette smokers, and e-cigarette smokers by compartment.
 
@@ -22,9 +25,6 @@
 
 ## Simulation Analysis (Figure 2)
 - Simulated 500 concentration data points to see if randomly generated data would yield similar statistically significant and highly correlated results between each across compartmental analysis. 
-
-## Demographics Analysis (Table 1)
-Calculated demographics statistics including fisher's exact and ANOVA
 
 ## Cytokine Demographics Distribution Comparison (not in manuscript)
 Running Wilcoxon Rank Sum test and stratifying subjects based on the demographic variable of interest (race, ethnicity, sex, age, or bmi) further stratifying compartment to determine how cytokine distributions varied for each variable. 
