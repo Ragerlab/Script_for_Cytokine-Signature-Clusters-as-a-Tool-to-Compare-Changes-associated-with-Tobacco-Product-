@@ -49,4 +49,4 @@ Running Wilcoxon Rank Sum tests and stratifying subjects based on the demographi
 
 ## Demograhic Eigencytokines & Clustered Demographics Distribution Analysis (not in manuscript)
 - Based on the results from the 'Cytokine Demographics Distribution Comparison',  eigencytokines were found using male subjects only followed by running Wilcoxon Rank sum tests between male non-smokers and e-cigarette users. 
-<i> For clarification, this version isn't in the manuscript. This was done to QC code that was previously written. </i>
+- <i> For clarification, this version isn't in the manuscript. This was done to QC code that was previously written. </i>
