@@ -34,7 +34,7 @@
 - Note that this version isn't in the manuscript!
 
 ## Cytokine Demographics Distribution Comparison (Table S6)
-Running Wilcoxon Rank Sum test and stratifying subjects based on the demographic variable of interest (race, ethnicity, sex, age, or bmi) further stratifying compartment to determine how cytokine distributions varied for each variable. 
+Running Wilcoxon Rank Sum tests and stratifying subjects based on the demographic variable of interest (race, ethnicity, sex, age, or bmi) further stratifying compartment to determine how cytokine distributions varied for each variable. 
 
 ## Individual Cytokine Rankings (not in manuscript)
 - Gave each cigarette or e-cigarette smoker a score based on the amount of deviation from baseline for each cytokine .
@@ -46,3 +46,7 @@ Running Wilcoxon Rank Sum test and stratifying subjects based on the demographic
 
 ## Cotinine Analysis (not in manuscript)
 - Running Spearman correlation tests to determine association between cytokine and cotinine concentrations across compartments.
+
+## Demograhic Eigencytokines & Clustered Demographics Distribution Analysis (not in manuscript)
+- Based on the results from the 'Cytokine Demographics Distribution Comparison',  eigencytokines were found using male subjects only followed by running Wilcoxon Rank sum tests between male non-smokers and e-cigarette users. 
+<i> For clarification, this version isn't in the manuscript. This was done to QC code that was previously written. </i>
