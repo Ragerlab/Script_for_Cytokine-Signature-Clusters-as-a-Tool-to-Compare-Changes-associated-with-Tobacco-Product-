@@ -7,7 +7,7 @@
 ## Demographics Analysis (Table 1)
 - Calculated demographics statistics including fisher's exact and ANOVA.
 
-## Pearson Correlations (Table 2)
+## Spearman Correlations (Table 2)
 - Ran Spearman rank correlation tests to determine correlation between each compartment (NLF, ELF, Sputum, Serum) stratified by smoking status. 
 
 ## Descriptive Statistics (Table S1)
