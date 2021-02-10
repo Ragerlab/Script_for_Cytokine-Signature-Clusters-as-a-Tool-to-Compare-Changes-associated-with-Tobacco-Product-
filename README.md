@@ -8,13 +8,6 @@
 ## Cluster Distribution Comparison (Table S5)
 - Used ANOVA test as a crude model (serving as similar function as original Wilcoxon Rank Sum tests) to compare ANCOVA results. ANCOVA was run to control for age (Table S3). This is the same analysis in the cytokine distribution comparison, but now we are comparing clusters of cytokines rather than individual cytokines.
    
-## Baseline Analysis (Figure 1 and Figure S1)
-- Calculating and visualizing mean and standard deviation of baseline (non-smokers) concentrations for each cytokine (Figure 1). 
-- Running Shapiro-Wilk's test for normality between each compartment (NLF, ELF, Sputum, or Serum) at baseline. 
-- Calculating and visualizing median and standard deviation of baseline (non-smokers) concentrations for each cytokine (Figure S1). 
-
-## Simulation Analysis (Figure 2)
-- Simulated 500 concentration data points to see if randomly generated data would yield similar statistically significant and highly correlated results between each across compartmental analysis. 
 
 ## Cluster Visualization (Figure 3)
 - Visualizing clustered eigencytokines by compartment
