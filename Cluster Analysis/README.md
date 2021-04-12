@@ -8,3 +8,7 @@
 
 ## Cytokine Demographics Distribution Comparison (Table S6)
 Running Wilcoxon Rank Sum tests and stratifying subjects based on the demographic variable of interest (race, ethnicity, sex, age, or bmi) further stratifying compartment to determine how cytokine distributions varied for each variable. 
+
+In the instance that the files are unable to rendered the NBViewer link can be clicked below. 
+
+[Link to NBViewer](https://nbviewer.jupyter.org/github/Ragelab/Cytokine_Compartment/tree/main/)
