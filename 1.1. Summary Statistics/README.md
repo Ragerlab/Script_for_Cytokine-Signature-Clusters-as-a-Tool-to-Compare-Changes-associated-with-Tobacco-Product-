@@ -6,5 +6,7 @@
 - Calculated mean, median, min, max, and standard deviation for the overall cohort, non-smokers, cigarette smokers, and e-cigarette smokers by compartment.
 
 
-## Cytokine Distribution Comparison (Table S2)
-- Using Wilcoxon Rank Sum tests to compare baseline & cigarette smoker distributions or baseline & e-cigarette smokers by compartment.
+## Baseline Analysis (Figure 1 and Figure S1)
+- Calculating and visualizing mean and standard deviation of baseline (non-smokers) concentrations for each cytokine (Figure 1). 
+- Running Shapiro-Wilk's test for normality between each compartment (NLF, ELF, Sputum, or Serum) at baseline. 
+- Calculating and visualizing median and standard deviation of baseline (non-smokers) concentrations for each cytokine (Figure S1). 
