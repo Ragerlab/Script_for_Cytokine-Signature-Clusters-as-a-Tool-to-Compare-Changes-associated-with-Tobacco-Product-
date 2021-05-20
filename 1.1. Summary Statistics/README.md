@@ -1,5 +1,5 @@
 ## Demographics Analysis (Table 1)
-- Calculated demographics statistics including fisher's exact and ANOVA.
+- Calculated demographics statistics to determine if there were differences across smoking statuses.
 
 
 ## Descriptive Statistics (Table S1)
