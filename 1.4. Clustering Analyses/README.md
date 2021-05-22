@@ -19,3 +19,7 @@
 
 ## Hierarchical Clustering (HC) Distribution Analysis (not in manuscript)
 - Determining how cytokines cluster using hierarchical clustering
+
+
+## Validation Baseline Clusters (Figure 6)
+- Determining if the cytokines in a new (validation) dataset resemble the clusters found in the original dataset
