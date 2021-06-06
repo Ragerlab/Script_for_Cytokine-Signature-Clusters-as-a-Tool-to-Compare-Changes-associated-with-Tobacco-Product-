@@ -7,3 +7,6 @@
 
 ## Cytokine Demographics Distribution Comparison (Table S4)
 - Running Wilcoxon tests like for Table S2, this time further stratifying by demographic variables. 
+
+## Cytokine Distribution Comparison (not in manuscript)
+- Using Wilcoxon Rank Sum tests to compare baseline cytokine concentrations across compartments.
