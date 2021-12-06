@@ -1,5 +1,5 @@
 
-## Cluster Distribution Comparison (Table 3)
+## Cluster Distribution Comparison (Table 4)
 - Used Wilcoxon Rank sum test to determine if eigencytokines were significantly different across smoking statuses. 
 
 ## Cluster Distribution Comparison_ANOVA_ANCOVA (not in manuscript)
