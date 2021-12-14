@@ -2,9 +2,12 @@
 - Visualizing clustered kmeans cytokines by compartment
 
 
-## Baseline Eigencytokines & Weights (Figure 4)
-- Heat map of NLF eigencytokines and the weights of cytokines on those clusters
+## Baseline Eigencytokine Weights (Figure 4)
+- Heat map of NLF cytokines and the weights of cytokines on those clusters at baseline
 
+
+## Eigencytokine Visualization (Figure 5)
+- Heat map of NLF eigencytokines across all smoking groups
 
 
 ## Baseline Eigencytokines (Figure 3)
@@ -21,5 +24,5 @@
 - Determining how cytokines cluster using hierarchical clustering
 
 
-## Validation Baseline Clusters (Figure 6)
+## Validation Baseline Clusters (Figure 7)
 - Determining if the cytokines in a new (validation) dataset resemble the clusters found in the original dataset
