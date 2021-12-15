@@ -6,7 +6,7 @@
 - Heat map of NLF cytokines and the weights of cytokines on those clusters at baseline
 
 
-## Eigencytokine Visualization (Figure 5)
+## Eigencytokine Visualization (Figure 6)
 - Heat map of NLF eigencytokines across all smoking groups
 
 
