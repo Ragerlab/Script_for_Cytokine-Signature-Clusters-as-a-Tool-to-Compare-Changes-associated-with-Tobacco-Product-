@@ -5,7 +5,7 @@ This script was generated to support exploratory analyses to determine associati
 [Link to NBViewer](https://nbviewer.jupyter.org/github/Ragerlab/Cytokine_Compartment/tree/main/)
 
 
-This script was generated to support the manuscript titled 'Cytokine signature clusters as a tool to compare changes associated with tobacco product use in upper and lower airway samples', published by Payton et al. in 2022 (PMID: 35318855).
+This script was generated to support the manuscript titled 'Cytokine signature clusters as a tool to compare changes associated with tobacco product use in upper and lower airway samples', published in the American Journal of Physiology-Lung Cellular and Molecular Physiology in 2022 (PMID: 35318855). doi: https://doi.org/10.1152/ajplung.00299.2021
 
 ![image](https://user-images.githubusercontent.com/72747901/146385471-175e5c55-9954-4b28-b392-0f123a2a8b24.png)
 
